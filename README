@@ -1,24 +1,24 @@
 # PRODIGY_DS_01 - Data Visualization
 
-## 📌 Task Objective
+# Task Objective
 To create a bar chart or histogram to visualize the distribution of a variable.
 
-## 📊 Dataset
+# Dataset
 World Population Dataset
 
-## 🛠 Tools Used
+# Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## 📈 What I Did
+# What I Did
 - Loaded and cleaned the dataset
 - Selected population as a continuous variable
 - Created histogram to show distribution
 - Created bar chart for top 10 populated countries
 
-## 🔍 Key Insights
+# Key Insights
 - Population distribution is highly skewed
 - Most countries have low population
 - Few countries contribute to very high population
