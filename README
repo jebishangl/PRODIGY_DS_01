@@ -1,0 +1,31 @@
+# PRODIGY_DS_01 - Data Visualization
+
+## 📌 Task Objective
+To create a bar chart or histogram to visualize the distribution of a variable.
+
+## 📊 Dataset
+World Population Dataset
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📈 What I Did
+- Loaded and cleaned the dataset
+- Selected population as a continuous variable
+- Created histogram to show distribution
+- Created bar chart for top 10 populated countries
+
+## 🔍 Key Insights
+- Population distribution is highly skewed
+- Most countries have low population
+- Few countries contribute to very high population
+
+## 📷 Output
+<img width="809" height="586" alt="image" src="https://github.com/user-attachments/assets/997739b5-0f1d-473e-9ddf-f77a78b4fcd8" />
+<img width="940" height="668" alt="image" src="https://github.com/user-attachments/assets/5d3e20f5-0d3a-4e0d-b50e-8d77592f6295" />
+<img width="809" height="586" alt="image" src="https://github.com/user-attachments/assets/04a74594-1be0-498e-9b88-ddfee2bf315e" />
+
+
